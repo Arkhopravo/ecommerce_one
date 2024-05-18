@@ -18,7 +18,7 @@ const ProductDetails = ({products, product}) => {
           setNow(new Date());
       },[])
      
-    console.log("product", product);
+    // console.log("product", product);
   const handleBuyNow = () => {
     onAdd(product, qty);
 
