@@ -1,0 +1,7 @@
+NEXT_PUBLIC_SANITY_TOKEN = skKVBKv5PwfAYbLfOszmCGTKmpfPNXIoVO3rhHv5hrsuPohKmhM2TSeLQbqkkhbBQxxqq0QkTLARVG9tnNc9SchNYcRgJkQajcZpwmO2jkVXFsMdA3r4XndpF9pO964TCycP7dX9JyouaFzuq9EHNrQUqLQtgnxZcuxw6905bHqoX162s5eq
+
+// # https://dashboard.stripe.com/apikeys
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_test_51LvQdWSGW9yGJv3NXaq71MFTxfwPWgOmLGHWGUiJAVarOwEq4yOoc5keOfa9YR1d4M2lIoQsMMfRS1yJXpdx43RF00rNDG0NRp
+STRIPE_SECRET_KEY=sk_test_51LvQdWSGW9yGJv3NxyvMtwcESsmfwNg5WLIpF4Um6zh6Uoml94cQjIZVMKgKJOdRtIrwdJbNxdEHr3IJXTNVLXHM00WKsIT3pV
+// # Set this environment variable to support webhooks — https://stripe.com/docs/webhooks/signatures
+// # STRIPE_WEBHOOK_SECRET=whsec_12345
